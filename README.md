@@ -1,7 +1,7 @@
 # Habit Tracker
 
-A simple and intuitive habit tracking application built with Python.  
-Track your daily routines, build consistency, and visualize your progress – right from your terminal or a graphical interface.
+A habit tracking application built with Python, utilising JSON.  
+Track your daily routines, build consistency, and visualise your progress – right from the terminal.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
@@ -12,9 +12,7 @@ Track your daily routines, build consistency, and visualize your progress – ri
 - [Features](#features)
 - [Installation](#installation)
 - [CLI Usage](#cli-usage)
-- [GUI Usage](#gui-usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -29,7 +27,7 @@ This project started as a CLI-based tracker and is currently being refactored in
 - 📊 View progress and history (in CLI)
 - 💾 Data saved locally in JSON
 - 🔁 Reset habits at the start of a new day
-- 🧩 Modular and extensible structure
+- 🧩 Well-based structure
 
 ## Installation
 
@@ -37,3 +35,12 @@ Clone the repository:
 
 git clone [https://github.com/yourusername/habit-tracker.git](https://github.com/neb1n/Habit-Tracker.git)
 cd habit-tracker
+
+## CLI-Usage
+
+Fairly simply based that you can navigate through, you may want to open it in fullscreen as it is a bit easier to navigate but you may also use it
+quite well in a windowed screen.
+
+## Contributing
+
+Contributions are not public as of now.
