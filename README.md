@@ -17,8 +17,8 @@ Track your daily routines, build consistency, and visualise your progress – ri
 ## About
 
 **Habit Tracker** is a personal productivity tool designed to help you stay accountable and build good habits. Whether you prefer working in the command line or want a user-friendly interface, this app supports both modes with a modular backend.
-
-This project started as a CLI-based tracker and is currently being refactored into a modular, GUI-based application using Tkinter.
+This project started as a CLI-based tracker and is currently being refactored into a modular, GUI-based application using Tkinter. Currently, there has not been many improvements to the structure of this program and the GUI-based application is more likely
+to become a seperate project in itself due to it's file structure and complexity.
 
 ## Features
 
@@ -33,7 +33,7 @@ This project started as a CLI-based tracker and is currently being refactored in
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/habit-tracker.git](https://github.com/neb1n/Habit-Tracker.git)
+git clone [https://github.com/neb1n/habit-tracker.git](https://github.com/neb1n/Habit-Tracker.git)
 cd habit-tracker
 
 ## CLI-Usage
